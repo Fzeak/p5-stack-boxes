@@ -237,7 +237,7 @@ function createBox(dWidth, dLength, dHeight, sWidth, sLength, sHeight, xCenter, 
       textSize(12 / globalScale * 1.3);
       textAlign(CENTER);
       rectMode(CENTER);
-      text(boxTitle + '\nQuantity: ' + boxQuantity + ' unit(s)', xP2, yP2 - 20, 190, 70);
+      text(boxTitle + '\nQuantity: ' + boxQuantity + ' unit(s)', xP2, yP2 - 20, 250, 70);
       // stroke(0)
       // strokeWeight(0)
     }
