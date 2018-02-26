@@ -46,4 +46,4 @@ Given input data:
 ````
 This script renders:
 
-![Optional Text](../master/stacked-boxes.PNG)
+![Optional Text](../master/image.PNG)
