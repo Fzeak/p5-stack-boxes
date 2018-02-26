@@ -1,6 +1,6 @@
 This explains the repo
 
-# This is a visualizer for box stacking.
+# This is a visualizer for box stacking using the p5.js library.
 ## It is to draw out a 3D image of your stacked box based on an array input.
 
 The program's purpose is to show how boxes of certain dimensions are stacked and then provides the dimensions of the stack itself.
